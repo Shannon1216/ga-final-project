@@ -59,7 +59,9 @@ navigator.geolocation.getCurrentPosition(function(position) {
   });
        // Creating an InfoWindow object
    var infowindow = new google.maps.InfoWindow({
-  content: 'Monk Cafe'
+  content: '<h1>Monk Cafe</h1>'+
+  '<p>1600 North Blvd</p>'+
+  '<p>New York</p>'
  
 });
 
