@@ -21,7 +21,7 @@ body {
 	text-shadow: 1px 1px grey;
 
 }
-h1 {
+.hero h1 {
 	position: relative;
 	font-size:3em;
 	padding-top:3.4em;
